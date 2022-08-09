@@ -12,11 +12,9 @@ int main()
         if(s[i]!=s[i-1])
             ans++;
     }
-
     if(ans&1)
         cout<<"CHAT WITH HER!"<<endl;
     else
         cout<<"IGNORE HIM!"<<endl;
-
     return 0;
 }
