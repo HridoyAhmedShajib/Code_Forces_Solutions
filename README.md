@@ -1,6 +1,4 @@
-# CSE-122-Fall-2022-49-08
-This is a OOP Lab Repository
-
+# This is Solution Repository of code forces problems
 
 Name: Hridoy Ahmed Shajib
 
@@ -10,4 +8,4 @@ Email: hridoyahmed562@gmail.com
 
 Intake: 49
 
-Section: 08
+
